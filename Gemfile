@@ -71,3 +71,5 @@ gem "jquery-rails"
 gem 'faker'
 gem 'will_paginate', '~> 3.1', '>= 3.1.7'      
 gem 'bootstrap-will_paginate'
+gem 'carrierwave'
+gem 'mini_magick'
